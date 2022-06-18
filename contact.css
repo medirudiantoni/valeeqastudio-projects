@@ -1,0 +1,15 @@
+.contact-logo img {
+    width: 100%;
+}
+.socmed-icon {
+    text-align: end;
+}
+@media screen and (max-width: 991px) {
+    .contact-logo img {
+        width: 50%;
+    }
+    .socmed-icon {
+        text-align: center;
+        padding: 30px 0;
+    }
+}
